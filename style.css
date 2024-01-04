@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1000px;
+    margin: 100px auto 0px 300px;
+    border-radius: 5px;
+    height: 400px;
+}
+.containerbir{
+    width:260px;
+    height: 380px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float: left;
+    background-color: hsl(31, 77%, 52%);
+}
+.containerikki{
+    width: 260px;
+    height: 380px;
+    float: left;
+    background-color: hsl(184, 100%, 22%);
+}
+.containeruch{
+    width: 260px;
+    height: 380px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: left;
+    background-color: hsl(179, 100%, 13%);
+}
+.container div{
+    width: 90px;
+    text-align: left;
+}
+.sedans{
+    padding-left: 35px;
+    padding-top: 20px;
+    font-family: 'Big Shoulders Display';
+    color: white;
+    font-size: 20px;
+    font-weight: 400px;
+    
+}
+.suvs{
+    padding-left: 35px;
+    padding-top: 20px;
+    font-family: 'Big Shoulders Display';
+    color: white;
+    font-size: 35px;
+}
+.luxury{
+    padding-left: 35px;
+    padding-top: 20px;
+    font-family: 'Big Shoulders Display';
+    color: white;
+    font-size: 20px;
+}
+p{
+     padding-left: 35px;
+     padding-top: 25px;
+     font-family: 'Lexend Deca';
+     color: white;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+img{
+    padding-left: 35px;
+    padding-top: 35px;
+}
+.tugmabir{ 
+    list-style-type: none;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    background-color: white;
+     border-radius: 30px;
+}
+.tugmabir, .tugmabir{
+   margin-left: 35px;
+   margin-top: 65px;
+}
+
+.tugmabir a{
+    line-height: 15px;
+    text-decoration: none;
+    padding: 10px 0;
+    width: 100%;
+    display: block;
+    color: orange;
+    font-size: 12px;
+    font-family: 'Lexend Deca';
+}
+.tugmaikki{ 
+    list-style-type: none;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    background-color: white;
+     border-radius: 30px;
+}
+.tugmaikki, .tugmaikki{
+   margin-left: 35px;
+   margin-top: 65px;
+}
+
+.tugmaikki a{
+    line-height: 15px;
+    text-decoration: none;
+    padding: 10px 0;
+    width: 100%;
+    display: block;
+    color: hsl(184, 100%, 22%);
+    font-size: 12px;
+    font-family: 'Lexend Deca';
+}
+.tugmauch{ 
+    list-style-type: none;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+    background-color: white;
+     border-radius: 30px;
+}
+.tugmauch, .tugmauch{
+   margin-left: 35px;
+   margin-top: 65px;
+}
+
+.tugmauch a{
+    line-height: 15px;
+    text-decoration: none;
+    padding: 10px 0;
+    width: 100%;
+    display: block;
+    color: hsl(179, 100%, 13%);
+    font-size: 12px;
+    font-family: 'Lexend Deca';
+}
+
